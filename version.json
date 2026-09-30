@@ -1,6 +1,9 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "mod_url": "https://raw.githubusercontent.com/phamvantien12112004-source/DragonboyMod/main/mod.enc",
-    "apk_url": "https://github.com/phamvantien12112004-source/DragonboyMod/releases/download/v1.0.1/Dragonboy_v1.0.1.apk",
-    "note": "Bản cập nhật tính năng mới & sửa lỗi."
+    "apk_url": "",
+    "note": "Bản cập nhật tính năng mới & sửa lỗi.",
+    "sha256": "76a2586135e1a02a6456f969b5ae3358a7ad9cc4973055a505914c7b5de6ff53",
+    "size": 1350688,
+    "mandatory": false
 }
