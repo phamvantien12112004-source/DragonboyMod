@@ -1,6 +1,6 @@
-{
-  "version": "1.0.1",
-  "mod_url": "https://raw.githubusercontent.com/phamvantien12112004-source/DragonboyMod/main/mod.enc",
-  "apk_url": "https://github.com/phamvantien12112004-source/DragonboyMod/releases/download/v1.0.1/Dragonboy_v1.0.1.apk",
-  "note": "Bản cập nhật v1.0.1: Cập nhật tính năng mới cho cả PC và Android!"
+﻿{
+    "version": "1.0.2",
+    "mod_url": "https://raw.githubusercontent.com/phamvantien12112004-source/DragonboyMod/main/mod.enc",
+    "apk_url": "https://github.com/phamvantien12112004-source/DragonboyMod/releases/download/v1.0.0/Dragonboy.apk",
+    "note": "Bản cập nhật tính năng mới & sửa lỗi."
 }
