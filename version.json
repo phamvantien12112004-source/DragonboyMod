@@ -1,9 +1,9 @@
 {
-    "version": "1.1.7",
+    "version": "1.1.8",
     "mod_url": "https://raw.githubusercontent.com/phamvantien12112004-source/DragonboyMod/main/mod.enc",
     "apk_url": "",
     "note": "Bản cập nhật v1.0.6: Chuẩn Standalone mscorlib 4.0, sửa hiển thị Set kích hoạt 5 món.",
-    "sha256": "2024da687e18be18567e6a464d721fdde238130e29ceabbab0027b8b14378f2f",
-    "size": 1382432,
+    "sha256": "e3b2133e414f269c07f2df778d2440eca586d91559889dd3f0722c6726f85ba9",
+    "size": 1415712,
     "mandatory": false
 }
